@@ -51,7 +51,7 @@ Your partner found, make an appointment at a café terrace or in a park, etc. Th
 ## 1. Clone and Install
 ```bash
 # Clone the repo
-git clone https://github.com/beauvaisbruno/meetnative
+git clone https://github.com/JSAdmin/RN-MeetNative-App.git
 
 # Install dependencies
 cd react-native
