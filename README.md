@@ -1,10 +1,5 @@
 # Meet Native : Find a Language Partner
 
-![Build Status](https://img.shields.io/badge/circleci-passing-brightgreen.svg)
-![codecov](https://img.shields.io/badge/coverage-83%25-green.svg)
-![Codacy Badge](https://img.shields.io/badge/code%20quality-A-brightgreen.svg)
-![licence MIT](https://img.shields.io/badge/license-MIT-green.svg)
-
 Cross-platform mobile app for Android and iOS written with React Native.
 
 ![Big Beautiful Picture](https://i.imgur.com/w8ykgid.png)
