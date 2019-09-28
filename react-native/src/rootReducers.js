@@ -1,4 +1,5 @@
 "use strict";
+
 Object.defineProperty(exports, "__esModule", { value: true });
 const redux_1 = require("redux");
 const profileReducer_1 = require("./components/profile/profileReducer");
